@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "nombre": "Titanic",
+    "año": 1997,
+    "empresa": "Paramount Pictures",
+    "genero": ["Romance", "Drama"]
+  },
+  {
+    "id": 2,
+    "nombre": "Jurassic Park",
+    "año": 1993,
+    "empresa": "Universal Pictures",
+    "genero": ["Ciencia ficción", "Aventura"]
+  },
+  {
+    "id": 3,
+    "nombre": "The Shawshank Redemption",
+    "año": 1994,
+    "empresa": "Columbia Pictures",
+    "genero": ["Drama", "Crimen"]
+  },
+  {
+    "id": 4,
+    "nombre": "Inception",
+    "año": 2010,
+    "empresa": "Warner Bros. Pictures",
+    "genero": ["Ciencia ficción", "Acción"]
+  },
+  {
+    "id": 5,
+    "nombre": "The Dark Knight",
+    "año": 2008,
+    "empresa": "Warner Bros. Pictures",
+    "genero": ["Acción", "Crimen", "Drama"]
+  },
+  {
+    "id": 6,
+    "nombre": "Forrest Gump",
+    "año": 1994,
+    "empresa": "Paramount Pictures",
+    "genero": ["Drama", "Comedia"]
+  },
+  {
+    "id": 7,
+    "nombre": "The Matrix",
+    "año": 1999,
+    "empresa": "Warner Bros. Pictures",
+    "genero": ["Ciencia ficción", "Acción"]
+  },
+  {
+    "id": 8,
+    "nombre": "Pulp Fiction",
+    "año": 1994,
+    "empresa": "Miramax Films",
+    "genero": ["Crimen", "Drama"]
+  },
+  {
+    "id": 9,
+    "nombre": "The Godfather",
+    "año": 1972,
+    "empresa": "Paramount Pictures",
+    "genero": ["Crimen", "Drama"]
+  },
+  {
+    "id": 10,
+    "nombre": "Schindler's List",
+    "año": 1993,
+    "empresa": "Universal Pictures",
+    "genero": ["Drama", "Biografía"]
+  },
+  {
+    "id": 11,
+    "nombre": "Avatar",
+    "año": 2009,
+    "empresa": "20th Century Fox",
+    "genero": ["Ciencia ficción", "Aventura"]
+  },
+  {
+    "id": 12,
+    "nombre": "The Silence of the Lambs",
+    "año": 1991,
+    "empresa": "Orion Pictures",
+    "genero": ["Crimen", "Drama", "Thriller"]
+  },
+  {
+    "id": 13,
+    "nombre": "The Lord of the Rings: The Fellowship of the Ring",
+    "año": 2001,
+    "empresa": "New Line Cinema",
+    "genero": ["Aventura", "Fantasía"]
+  },
+  {
+    "id": 14,
+    "nombre": "The Departed",
+    "año": 2006,
+    "empresa": "Warner Bros. Pictures",
+    "genero": ["Crimen", "Drama", "Thriller"]
+  }
+]
